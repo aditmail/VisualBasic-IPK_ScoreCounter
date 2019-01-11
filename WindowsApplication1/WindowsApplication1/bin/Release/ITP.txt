@@ -1,0 +1,5 @@
+Ifa,11520020181,PBM,3,80,80,80
+ArifLahiya,1132006002,Metabolisme,3,80,85,90
+nurul,1152006015,kalkulus,3sks,80,81,80
+suci,1152006024,Kimia Analitik,2,80,46,60
+WahyuSri,1142006003,Kimia Pangan,3,90,85,80

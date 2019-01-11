@@ -1,0 +1,199 @@
+c:\users\aditmail\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\aditmail\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\aditmail\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\aditmail\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+c:\users\aditmail\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+c:\users\aditmail\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+c:\users\aditmail\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\aditmail\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+c:\users\aditmail\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+c:\users\aditmail\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+c:\users\aditmail\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+L:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+L:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+L:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+L:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+L:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+L:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+L:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+L:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+L:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+L:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+G:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+G:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+G:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+G:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\KULIah\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\TUGAS KULIAH\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\TUGAS KULIAH\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\TUGAS KULIAH\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\TUGAS KULIAH\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\TUGAS KULIAH\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\TUGAS KULIAH\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\TUGAS KULIAH\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\TUGAS KULIAH\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\TUGAS KULIAH\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\TUGAS KULIAH\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\TUGAS KULIAH\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\TUGAS KULIAH\Projet Basic\Tahap 60 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+I:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+I:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+I:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+I:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+I:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+I:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+I:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+I:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+I:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+I:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+I:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+G:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+G:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+G:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+G:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+G:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+K:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+K:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+K:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+K:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+K:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+K:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+K:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+K:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+K:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+K:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+K:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+K:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\KULIah\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+E:\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Projet Basic\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ADITMAIL\Desktop\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\ADITMAIL\Desktop\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\ADITMAIL\Desktop\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\ADITMAIL\Desktop\Tahap 65 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ADITMAIL\Desktop\Tahap 65 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ADITMAIL\Desktop\Tahap 65 persen\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ADITMAIL\Desktop\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\ADITMAIL\Desktop\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\ADITMAIL\Desktop\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\ADITMAIL\Desktop\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\ADITMAIL\Desktop\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ADITMAIL\Desktop\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ADITMAIL\Desktop\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\ADITMAIL\Desktop\Tahap 65 persen\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+G:\KULIah\Projet Basic\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+G:\KULIah\Projet Basic\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+G:\KULIah\Projet Basic\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+G:\KULIah\Projet Basic\Final!!\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\KULIah\Projet Basic\Final!!\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\KULIah\Projet Basic\Final!!\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\KULIah\Projet Basic\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\KULIah\Projet Basic\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\KULIah\Projet Basic\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+G:\KULIah\Projet Basic\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+G:\KULIah\Projet Basic\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+G:\KULIah\Projet Basic\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+G:\KULIah\Projet Basic\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+G:\KULIah\Projet Basic\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\KULIah\Projet Basic\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\IVA\Desktop\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\IVA\Desktop\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\IVA\Desktop\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\IVA\Desktop\Final!!\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\IVA\Desktop\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\IVA\Desktop\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\IVA\Desktop\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\IVA\Desktop\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\IVA\Desktop\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\IVA\Desktop\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\IVA\Desktop\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\IVA\Desktop\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\IVA\Desktop\Final!!\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\IVA\Desktop\Final!!\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\IVA\Desktop\Final!!\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\IPK Score Counter\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+G:\IPK Score Counter\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+G:\IPK Score Counter\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+G:\IPK Score Counter\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\IPK Score Counter\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\IPK Score Counter\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\IPK Score Counter\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\IPK Score Counter\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\IPK Score Counter\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+G:\IPK Score Counter\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+G:\IPK Score Counter\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+G:\IPK Score Counter\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+G:\IPK Score Counter\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+G:\IPK Score Counter\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\IPK Score Counter\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\TUGAS KULIAH\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\TUGAS KULIAH\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\TUGAS KULIAH\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\TUGAS KULIAH\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\TUGAS KULIAH\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\TUGAS KULIAH\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\TUGAS KULIAH\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\TUGAS KULIAH\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\TUGAS KULIAH\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\TUGAS KULIAH\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+E:\TUGAS KULIAH\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+E:\TUGAS KULIAH\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+E:\TUGAS KULIAH\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+E:\TUGAS KULIAH\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\TUGAS KULIAH\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+E:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+E:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+E:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+E:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+D:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+D:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\00 NGULIah\02 TUGAS KULIah\02. Semester 2\Basic\Projet Basic\IPK Score Counter DONE\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

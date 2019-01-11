@@ -1,0 +1,5 @@
+Ifa,11520020181,PBM,3,80,80,80
+Michael,1151001101,statistika bisnis,4,100,60,50
+intanpermatasari,1141001097,kewirausahaaan,3,86,88,70
+Katherine,1141001120,Corfin,3,60,30,90
+AYA,1141001007,STATBIS,4,90,50,70

@@ -1,0 +1,2 @@
+Ifa,11520020181,PBM,3,80,80,80
+ElizabethVania,1151004050,Sistem Hukum,3,80,75,80

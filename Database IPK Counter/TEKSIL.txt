@@ -1,0 +1,4 @@
+YulindaTimurLaresi,113204013,Dinamika Struktur,3,80,75,98
+roy,1152004035,statika,3,70,70,65
+RoyPrayudaPutra,1152004041,Statika,3,100,20,100
+hizkiachristian,1152004029,ilmu ukur tanah,3,85,50,75

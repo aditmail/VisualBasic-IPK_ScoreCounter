@@ -1,0 +1,12 @@
+safira,1142001021,Digital Signal Processing,3,80,69,85
+Putri,1142001012,DSP,3,80,52,90
+SalmaaBadriatusyafaah,1152001001,Visual Basic,3,30,30,40
+SalmaaBadriatusyafaah,1152001001,Visual Basic,3,85,69,80
+RifindaFitri,1152001010,Statdes,2,90,80,90
+ad,11,vb,3,89,88,77
+RhakaAdjietaPrabhawa,1152001014,Matematika Diskrit,3,80,60,90
+arna,1152001020,statdis,2,90,74,80
+Rizki,1142001019,Statistika Deskriptif,2,75,75,50
+Az,007,Statistik Deskriptif,2,70,45,80
+imam,1142001010,kalkulus,3,80,55,80
+Shania,1142001008,Database Advance,3,79,89,88

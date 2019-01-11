@@ -1,0 +1,2 @@
+Ifa,11520020181,pbm,3,80,80,80
+fadilla,1152005006,Hukum Lingkungan,2,85,85,85
